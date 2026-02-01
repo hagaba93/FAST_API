@@ -1,0 +1,6 @@
+Keys
+
+auth100 authenticating a User
+todo100 authenticating a user
+
+auth200 using a JWT token
